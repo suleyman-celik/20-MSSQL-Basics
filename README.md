@@ -4,7 +4,7 @@
 
 # Sample Databases
 
-01. [x] [BikeStores Sample Database](./01-SQL-Server-Sample-Database/)
+01. [x] [BikeStores Sample Database](./00-Sample-Database/01-SQL-Server-Sample-Database/)
 
 # Sample Querys
 
